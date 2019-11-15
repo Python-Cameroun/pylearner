@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="svg">
+    <file>padlock.svg</file>
+    <file>padlock.svg</file>
+    <file>icons8-speaker-32.png</file>
+    <file>icons8-pause-32.png</file>
+    <file>icons8-play-32.png</file>
+    <file>icons8-lock.svg</file>
+    <file>md-skip-forward.svg</file>
+    <file>md-skip-backward.svg</file>
+    <file>up-arrow.svg</file>
+    <file>telegram.svg</file>
+    <file>question-mark.svg</file>
+    <file>pythonUY1.svg</file>
+    <file>github.svg</file>
+    <file>code.svg</file>
+    <file>angle-arrow-down.svg</file>
+  </qresource>
+</RCC>

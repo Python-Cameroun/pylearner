@@ -1,0 +1,505 @@
+{
+    "parts": [
+        {
+            "name": "Introduction",
+            "number": 0,
+            "chapters": [
+                {
+                    "name": "Bienvenue dans \u00ab L'essentiel de Python 3 \u00bb.mp4",
+                    "hash": "",
+                    "number": 1,
+                    "file": "\\0. Introduction\\1. Bienvenue dans \u00ab L'essentiel de Python 3 \u00bb.mp4"
+                }
+            ]
+        },
+        {
+            "name": "Aborder Python 3",
+            "number": 1,
+            "chapters": [
+                {
+                    "name": "Profiter des fichiers d'exercice.mp4",
+                    "hash": "",
+                    "number": 1,
+                    "file": "\\1. Aborder Python 3\\1. Profiter des fichiers d'exercice.mp4"
+                },
+                {
+                    "name": "D\u00e9couvrir Python 3.mp4",
+                    "hash": "",
+                    "number": 2,
+                    "file": "\\1. Aborder Python 3\\2. D\u00e9couvrir Python 3.mp4"
+                },
+                {
+                    "name": "Choisir son environnement de d\u00e9veloppement int\u00e9gr\u00e9.mp4",
+                    "hash": "",
+                    "number": 3,
+                    "file": "\\1. Aborder Python 3\\3. Choisir son environnement de d\u00e9veloppement int\u00e9gr\u00e9.mp4"
+                },
+                {
+                    "name": "Utiliser Python comme une calculatrice.mp4",
+                    "hash": "",
+                    "number": 4,
+                    "file": "\\1. Aborder Python 3\\4. Utiliser Python comme une calculatrice.mp4"
+                },
+                {
+                    "name": "D\u00e9finir la notion de variables.mp4",
+                    "hash": "",
+                    "number": 5,
+                    "file": "\\1. Aborder Python 3\\5. D\u00e9finir la notion de variables.mp4"
+                },
+                {
+                    "name": "Aborder la logique du bool\u00e9en.mp4",
+                    "hash": "",
+                    "number": 6,
+                    "file": "\\1. Aborder Python 3\\6. Aborder la logique du bool\u00e9en.mp4"
+                },
+                {
+                    "name": "S'initier \u00e0 la conversion de type bool\u00e9en.mp4",
+                    "hash": "",
+                    "number": 7,
+                    "file": "\\1. Aborder Python 3\\7. S'initier \u00e0 la conversion de type bool\u00e9en.mp4"
+                },
+                {
+                    "name": "Effectuer des op\u00e9rations bool\u00e9ennes dans Python.mp4",
+                    "hash": "",
+                    "number": 8,
+                    "file": "\\1. Aborder Python 3\\8. Effectuer des op\u00e9rations bool\u00e9ennes dans Python.mp4"
+                },
+                {
+                    "name": "\u00c9crire un script dans Python.mp4",
+                    "hash": "",
+                    "number": 9,
+                    "file": "\\1. Aborder Python 3\\9. \u00c9crire un script dans Python.mp4"
+                },
+                {
+                    "name": " D\u00e9couvrir la m\u00e9thode print().mp4",
+                    "hash": "",
+                    "number": 10,
+                    "file": "\\1. Aborder Python 3\\10. D\u00e9couvrir la m\u00e9thode print().mp4"
+                }
+            ]
+        },
+        {
+            "name": "D\u00e9buter avec les structures de contr\u00f4le et les fonctions",
+            "number": 2,
+            "chapters": [
+                {
+                    "name": "Utiliser la structure conditionnelle en if.mp4",
+                    "hash": "",
+                    "number": 1,
+                    "file": "\\2. D\u00e9buter avec les structures de contr\u00f4le et les fonctions\\1. Utiliser la structure conditionnelle en if.mp4"
+                },
+                {
+                    "name": "Aborder la structure conditionnelle en if, en elseif et en else.mp4",
+                    "hash": "",
+                    "number": 2,
+                    "file": "\\2. D\u00e9buter avec les structures de contr\u00f4le et les fonctions\\2. Aborder la structure conditionnelle en if, en elseif et en else.mp4"
+                },
+                {
+                    "name": "Travailler avec la structure d'it\u00e9ration while.mp4",
+                    "hash": "",
+                    "number": 3,
+                    "file": "\\2. D\u00e9buter avec les structures de contr\u00f4le et les fonctions\\3. Travailler avec la structure d'it\u00e9ration while.mp4"
+                },
+                {
+                    "name": "D\u00e9couvrir la structure d'it\u00e9ration for.mp4",
+                    "hash": "",
+                    "number": 4,
+                    "file": "\\2. D\u00e9buter avec les structures de contr\u00f4le et les fonctions\\4. D\u00e9couvrir la structure d'it\u00e9ration for.mp4"
+                },
+                {
+                    "name": "Utiliser les instructions break et continue.mp4",
+                    "hash": "",
+                    "number": 5,
+                    "file": "\\2. D\u00e9buter avec les structures de contr\u00f4le et les fonctions\\5. Utiliser les instructions break et continue.mp4"
+                },
+                {
+                    "name": "Comprendre la notion de fonction sans param\u00e8tre d'entr\u00e9e.mp4",
+                    "hash": "",
+                    "number": 6,
+                    "file": "\\2. D\u00e9buter avec les structures de contr\u00f4le et les fonctions\\6. Comprendre la notion de fonction sans param\u00e8tre d'entr\u00e9e.mp4"
+                },
+                {
+                    "name": "D\u00e9finir une fonction avec param\u00e8tres d'entr\u00e9e.mp4",
+                    "hash": "",
+                    "number": 7,
+                    "file": "\\2. D\u00e9buter avec les structures de contr\u00f4le et les fonctions\\7. D\u00e9finir une fonction avec param\u00e8tres d'entr\u00e9e.mp4"
+                },
+                {
+                    "name": "D\u00e9finir une fonction avec un param\u00e8tre de retour.mp4",
+                    "hash": "",
+                    "number": 8,
+                    "file": "\\2. D\u00e9buter avec les structures de contr\u00f4le et les fonctions\\8. D\u00e9finir une fonction avec un param\u00e8tre de retour.mp4"
+                },
+                {
+                    "name": "Utiliser la fonction lambda.mp4",
+                    "hash": "",
+                    "number": 9,
+                    "file": "\\2. D\u00e9buter avec les structures de contr\u00f4le et les fonctions\\9. Utiliser la fonction lambda.mp4"
+                },
+                {
+                    "name": " Manipuler les listes.mp4",
+                    "hash": "",
+                    "number": 10,
+                    "file": "\\2. D\u00e9buter avec les structures de contr\u00f4le et les fonctions\\10. Manipuler les listes.mp4"
+                },
+                {
+                    "name": " Manipuler les tuples.mp4",
+                    "hash": "",
+                    "number": 11,
+                    "file": "\\2. D\u00e9buter avec les structures de contr\u00f4le et les fonctions\\11. Manipuler les tuples.mp4"
+                },
+                {
+                    "name": " Utiliser les dictionnaires.mp4",
+                    "hash": "",
+                    "number": 12,
+                    "file": "\\2. D\u00e9buter avec les structures de contr\u00f4le et les fonctions\\12. Utiliser les dictionnaires.mp4"
+                }
+            ]
+        },
+        {
+            "name": "Comprendre la programmation orient\u00e9e objet et le fonctionnement des classes",
+            "number": 3,
+            "chapters": [
+                {
+                    "name": "Utiliser des m\u00e9thodes natives de Python.mp4",
+                    "hash": "",
+                    "number": 1,
+                    "file": "\\3. Comprendre la programmation orient\u00e9e objet et le fonctionnement des classes\\1. Utiliser des m\u00e9thodes natives de Python.mp4"
+                },
+                {
+                    "name": "Aborder la notion d'objet.mp4",
+                    "hash": "",
+                    "number": 2,
+                    "file": "\\3. Comprendre la programmation orient\u00e9e objet et le fonctionnement des classes\\2. Aborder la notion d'objet.mp4"
+                },
+                {
+                    "name": "Fragmenter son projet.mp4",
+                    "hash": "",
+                    "number": 3,
+                    "file": "\\3. Comprendre la programmation orient\u00e9e objet et le fonctionnement des classes\\3. Fragmenter son projet.mp4"
+                },
+                {
+                    "name": "D\u00e9finir une classe.mp4",
+                    "hash": "",
+                    "number": 4,
+                    "file": "\\3. Comprendre la programmation orient\u00e9e objet et le fonctionnement des classes\\4. D\u00e9finir une classe.mp4"
+                },
+                {
+                    "name": "Utiliser des constructeurs, des accesseurs et des mutateurs.mp4",
+                    "hash": "",
+                    "number": 5,
+                    "file": "\\3. Comprendre la programmation orient\u00e9e objet et le fonctionnement des classes\\5. Utiliser des constructeurs, des accesseurs et des mutateurs.mp4"
+                },
+                {
+                    "name": "Comprendre l'h\u00e9ritage de classe.mp4",
+                    "hash": "",
+                    "number": 6,
+                    "file": "\\3. Comprendre la programmation orient\u00e9e objet et le fonctionnement des classes\\6. Comprendre l'h\u00e9ritage de classe.mp4"
+                },
+                {
+                    "name": "Aborder la notion de polymorphisme.mp4",
+                    "hash": "",
+                    "number": 7,
+                    "file": "\\3. Comprendre la programmation orient\u00e9e objet et le fonctionnement des classes\\7. Aborder la notion de polymorphisme.mp4"
+                },
+                {
+                    "name": "G\u00e9rer les param\u00e8tres -args et --kwargs.mp4",
+                    "hash": "",
+                    "number": 8,
+                    "file": "\\3. Comprendre la programmation orient\u00e9e objet et le fonctionnement des classes\\8. G\u00e9rer les param\u00e8tres -args et --kwargs.mp4"
+                },
+                {
+                    "name": "D\u00e9finir les exceptions.mp4",
+                    "hash": "",
+                    "number": 9,
+                    "file": "\\3. Comprendre la programmation orient\u00e9e objet et le fonctionnement des classes\\9. D\u00e9finir les exceptions.mp4"
+                },
+                {
+                    "name": " G\u00e9rer les exceptions.mp4",
+                    "hash": "",
+                    "number": 10,
+                    "file": "\\3. Comprendre la programmation orient\u00e9e objet et le fonctionnement des classes\\10. G\u00e9rer les exceptions.mp4"
+                },
+                {
+                    "name": " D\u00e9couvrir le principe des d\u00e9corateurs.mp4",
+                    "hash": "",
+                    "number": 11,
+                    "file": "\\3. Comprendre la programmation orient\u00e9e objet et le fonctionnement des classes\\11. D\u00e9couvrir le principe des d\u00e9corateurs.mp4"
+                },
+                {
+                    "name": " Stocker dans des fichiers.mp4",
+                    "hash": "",
+                    "number": 12,
+                    "file": "\\3. Comprendre la programmation orient\u00e9e objet et le fonctionnement des classes\\12. Stocker dans des fichiers.mp4"
+                },
+                {
+                    "name": " Comprendre les it\u00e9rateurs et les \u00e9num\u00e9rateurs.mp4",
+                    "hash": "",
+                    "number": 13,
+                    "file": "\\3. Comprendre la programmation orient\u00e9e objet et le fonctionnement des classes\\13. Comprendre les it\u00e9rateurs et les \u00e9num\u00e9rateurs.mp4"
+                },
+                {
+                    "name": " Cr\u00e9er un ex\u00e9cutable sous Windows.mp4",
+                    "hash": "",
+                    "number": 14,
+                    "file": "\\3. Comprendre la programmation orient\u00e9e objet et le fonctionnement des classes\\14. Cr\u00e9er un ex\u00e9cutable sous Windows.mp4"
+                },
+                {
+                    "name": " Exporter de Python et importer dans un tableur.mp4",
+                    "hash": "",
+                    "number": 15,
+                    "file": "\\3. Comprendre la programmation orient\u00e9e objet et le fonctionnement des classes\\15. Exporter de Python et importer dans un tableur.mp4"
+                }
+            ]
+        },
+        {
+            "name": "Construire une interface graphique sous Tkinter",
+            "number": 4,
+            "chapters": [
+                {
+                    "name": "Ins\u00e9rer des widgets sous Tkinter.mp4",
+                    "hash": "",
+                    "number": 1,
+                    "file": "\\4. Construire une interface graphique sous Tkinter\\1. Ins\u00e9rer des widgets sous Tkinter.mp4"
+                },
+                {
+                    "name": "D\u00e9couvrir des widgets pour les textures.mp4",
+                    "hash": "",
+                    "number": 2,
+                    "file": "\\4. Construire une interface graphique sous Tkinter\\2. D\u00e9couvrir des widgets pour les textures.mp4"
+                },
+                {
+                    "name": "Installer d'autres widgets.mp4",
+                    "hash": "",
+                    "number": 3,
+                    "file": "\\4. Construire une interface graphique sous Tkinter\\3. Installer d'autres widgets.mp4"
+                },
+                {
+                    "name": "Mettre en page une fen\u00eatre graphique.mp4",
+                    "hash": "",
+                    "number": 4,
+                    "file": "\\4. Construire une interface graphique sous Tkinter\\4. Mettre en page une fen\u00eatre graphique.mp4"
+                },
+                {
+                    "name": "Ajouter des alertes sous forme de bo\u00eete de message.mp4",
+                    "hash": "",
+                    "number": 5,
+                    "file": "\\4. Construire une interface graphique sous Tkinter\\5. Ajouter des alertes sous forme de bo\u00eete de message.mp4"
+                },
+                {
+                    "name": "G\u00e9rer l'interactivit\u00e9 avec des widgets.mp4",
+                    "hash": "",
+                    "number": 6,
+                    "file": "\\4. Construire une interface graphique sous Tkinter\\6. G\u00e9rer l'interactivit\u00e9 avec des widgets.mp4"
+                },
+                {
+                    "name": "Utiliser les canvas.mp4",
+                    "hash": "",
+                    "number": 7,
+                    "file": "\\4. Construire une interface graphique sous Tkinter\\7. Utiliser les canvas.mp4"
+                },
+                {
+                    "name": "Cr\u00e9er un jeu de tir.mp4",
+                    "hash": "",
+                    "number": 8,
+                    "file": "\\4. Construire une interface graphique sous Tkinter\\8. Cr\u00e9er un jeu de tir.mp4"
+                },
+                {
+                    "name": "D\u00e9couvrir la biblioth\u00e8que Turtle.mp4",
+                    "hash": "",
+                    "number": 9,
+                    "file": "\\4. Construire une interface graphique sous Tkinter\\9. D\u00e9couvrir la biblioth\u00e8que Turtle.mp4"
+                },
+                {
+                    "name": " Aborder un programme de jeu.mp4",
+                    "hash": "",
+                    "number": 10,
+                    "file": "\\4. Construire une interface graphique sous Tkinter\\10. Aborder un programme de jeu.mp4"
+                },
+                {
+                    "name": " Jouer avec le temps et animer simplement.mp4",
+                    "hash": "",
+                    "number": 11,
+                    "file": "\\4. Construire une interface graphique sous Tkinter\\11. Jouer avec le temps et animer simplement.mp4"
+                },
+                {
+                    "name": " Installer Page 4.10.mp4",
+                    "hash": "",
+                    "number": 12,
+                    "file": "\\4. Construire une interface graphique sous Tkinter\\12. Installer Page 4.10.mp4"
+                },
+                {
+                    "name": " Construire une interface graphique et g\u00e9n\u00e9rer du code.mp4",
+                    "hash": "",
+                    "number": 13,
+                    "file": "\\4. Construire une interface graphique sous Tkinter\\13. Construire une interface graphique et g\u00e9n\u00e9rer du code.mp4"
+                },
+                {
+                    "name": " Effectuer une compl\u00e9tion avec un code d'interaction.mp4",
+                    "hash": "",
+                    "number": 14,
+                    "file": "\\4. Construire une interface graphique sous Tkinter\\14. Effectuer une compl\u00e9tion avec un code d'interaction.mp4"
+                }
+            ]
+        },
+        {
+            "name": "Exploiter la data science avec Python",
+            "number": 5,
+            "chapters": [
+                {
+                    "name": "Utiliser les tableaux de donn\u00e9es.mp4",
+                    "hash": "",
+                    "number": 1,
+                    "file": "\\5. Exploiter la data science avec Python\\1. Utiliser les tableaux de donn\u00e9es.mp4"
+                },
+                {
+                    "name": "Passer en revue quelques notions math\u00e9matiques.mp4",
+                    "hash": "",
+                    "number": 2,
+                    "file": "\\5. Exploiter la data science avec Python\\2. Passer en revue quelques notions math\u00e9matiques.mp4"
+                },
+                {
+                    "name": "Utiliser des fonctions de base de NumPy.mp4",
+                    "hash": "",
+                    "number": 3,
+                    "file": "\\5. Exploiter la data science avec Python\\3. Utiliser des fonctions de base de NumPy.mp4"
+                },
+                {
+                    "name": "D\u00e9finir les lignes trigonom\u00e9triques.mp4",
+                    "hash": "",
+                    "number": 4,
+                    "file": "\\5. Exploiter la data science avec Python\\4. D\u00e9finir les lignes trigonom\u00e9triques.mp4"
+                },
+                {
+                    "name": "Travailler avec les nombres complexes.mp4",
+                    "hash": "",
+                    "number": 5,
+                    "file": "\\5. Exploiter la data science avec Python\\5. Travailler avec les nombres complexes.mp4"
+                },
+                {
+                    "name": "Tracer des graphiques.mp4",
+                    "hash": "",
+                    "number": 6,
+                    "file": "\\5. Exploiter la data science avec Python\\6. Tracer des graphiques.mp4"
+                },
+                {
+                    "name": "R\u00e9soudre une matrice.mp4",
+                    "hash": "",
+                    "number": 7,
+                    "file": "\\5. Exploiter la data science avec Python\\7. R\u00e9soudre une matrice.mp4"
+                },
+                {
+                    "name": "G\u00e9rer des fichiers avec NumPy.mp4",
+                    "hash": "",
+                    "number": 8,
+                    "file": "\\5. Exploiter la data science avec Python\\8. G\u00e9rer des fichiers avec NumPy.mp4"
+                },
+                {
+                    "name": "Aborder la biblioth\u00e8que SymPy.mp4",
+                    "hash": "",
+                    "number": 9,
+                    "file": "\\5. Exploiter la data science avec Python\\9. Aborder la biblioth\u00e8que SymPy.mp4"
+                }
+            ]
+        },
+        {
+            "name": "Construire une interface graphique sous PyQt5",
+            "number": 6,
+            "chapters": [
+                {
+                    "name": "Installer PyQt5 et Qt Designer.mp4",
+                    "hash": "",
+                    "number": 1,
+                    "file": "\\6. Construire une interface graphique sous PyQt5\\1. Installer PyQt5 et Qt Designer.mp4"
+                },
+                {
+                    "name": "Cr\u00e9er une fen\u00eatre sous PyQt5.mp4",
+                    "hash": "",
+                    "number": 2,
+                    "file": "\\6. Construire une interface graphique sous PyQt5\\2. Cr\u00e9er une fen\u00eatre sous PyQt5.mp4"
+                },
+                {
+                    "name": "Utiliser des widgets sous PyQt5.mp4",
+                    "hash": "",
+                    "number": 3,
+                    "file": "\\6. Construire une interface graphique sous PyQt5\\3. Utiliser des widgets sous PyQt5.mp4"
+                },
+                {
+                    "name": "Disposer des widgets.mp4",
+                    "hash": "",
+                    "number": 4,
+                    "file": "\\6. Construire une interface graphique sous PyQt5\\4. Disposer des widgets.mp4"
+                },
+                {
+                    "name": "Cr\u00e9er une interaction.mp4",
+                    "hash": "",
+                    "number": 5,
+                    "file": "\\6. Construire une interface graphique sous PyQt5\\5. Cr\u00e9er une interaction.mp4"
+                },
+                {
+                    "name": "Cr\u00e9er des messages box dans Qt5.mp4",
+                    "hash": "",
+                    "number": 6,
+                    "file": "\\6. Construire une interface graphique sous PyQt5\\6. Cr\u00e9er des messages box dans Qt5.mp4"
+                },
+                {
+                    "name": "D\u00e9couvrir le widget Slider.mp4",
+                    "hash": "",
+                    "number": 7,
+                    "file": "\\6. Construire une interface graphique sous PyQt5\\7. D\u00e9couvrir le widget Slider.mp4"
+                },
+                {
+                    "name": "Utiliser le widget CheckBox.mp4",
+                    "hash": "",
+                    "number": 8,
+                    "file": "\\6. Construire une interface graphique sous PyQt5\\8. Utiliser le widget CheckBox.mp4"
+                },
+                {
+                    "name": "Utiliser le widget RadioButton.mp4",
+                    "hash": "",
+                    "number": 9,
+                    "file": "\\6. Construire une interface graphique sous PyQt5\\9. Utiliser le widget RadioButton.mp4"
+                },
+                {
+                    "name": " Sauvegarder un fichier.mp4",
+                    "hash": "",
+                    "number": 10,
+                    "file": "\\6. Construire une interface graphique sous PyQt5\\10. Sauvegarder un fichier.mp4"
+                },
+                {
+                    "name": " Tirer parti du widget MenuBar.mp4",
+                    "hash": "",
+                    "number": 11,
+                    "file": "\\6. Construire une interface graphique sous PyQt5\\11. Tirer parti du widget MenuBar.mp4"
+                },
+                {
+                    "name": " Utiliser Qt Designer pour son interface.mp4",
+                    "hash": "",
+                    "number": 12,
+                    "file": "\\6. Construire une interface graphique sous PyQt5\\12. Utiliser Qt Designer pour son interface.mp4"
+                },
+                {
+                    "name": " Charger son interface \u00e0 la vol\u00e9e dans Python.mp4",
+                    "hash": "",
+                    "number": 13,
+                    "file": "\\6. Construire une interface graphique sous PyQt5\\13. Charger son interface \u00e0 la vol\u00e9e dans Python.mp4"
+                }
+            ]
+        },
+        {
+            "name": "Conclusion",
+            "number": 7,
+            "chapters": [
+                {
+                    "name": "Conclure cette formation sur Python 3.mp4",
+                    "hash": "",
+                    "number": 1,
+                    "file": "\\7. Conclusion\\1. Conclure cette formation sur Python 3.mp4"
+                }
+            ]
+        }
+    ],
+    "chapters": [],
+    "name": "L'essentiel de Python 3",
+    "date": "2019-12-18 15:19:04.010829"
+}
